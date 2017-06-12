@@ -1,0 +1,13 @@
+body {
+	background-color: #3BD6C6;
+}
+
+.center {
+	text-align: center;
+	background-color: #FFF;
+	color: black;
+	margin: 0 auto;
+	max-width: 500px;
+	font-weight: bold;
+	font-size: 20px;
+}
